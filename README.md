@@ -1,6 +1,6 @@
-** Kata: LeastLarger (by JohanWiltink)
+## Kata: LeastLarger (by JohanWiltink)
 
-DESCRIPTION:
+### DESCRIPTION:
 
 Task
 
