@@ -1,4 +1,4 @@
-## Kata: LeastLarger (by JohanWiltink) [7 kyu]
+## Kata: LeastLarger (by JohanWiltink) <7 kyu>
 
 ### DESCRIPTION:
 
