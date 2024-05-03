@@ -22,6 +22,6 @@ Example
 ### What I learnt:
 
 1. A poorly worded task will significantly increase how it takes to get completed.
-2. The array method .sort() will convert the array elements strings, then sorts them according to each character's Unicode code point value.
-   The following comparison needs to be added:
+2. The array method .sort() will convert the array elements to strings, then sort them according to each character's Unicode code point value.
+   The following comparison needs to be added for numerical sorting:
    `(a, b) => a - b`
